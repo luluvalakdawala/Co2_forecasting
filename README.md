@@ -1,7 +1,5 @@
 # Co2 Forecasting
 
-This project is a gentle introduction to Time Series Modeling.
-
 The Dataset used here is from the statsmodels library - "Atmospheric CO2 from Continuous Air Samples at Mauna Loa Observatory, Hawaii, U.S.A.," which collected CO2 samples from March 1958 to December 2001. 
 
 We first start by loading in the dataset and transforming it such that we have readings for each month starting from March 1958 to December 2001.
